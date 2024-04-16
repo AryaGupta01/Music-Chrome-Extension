@@ -32,7 +32,7 @@ Spotify Chrome Extension is a convenient tool that allows you to search and play
 1. Clone the GitHub repository:
 
     ```bash
-    git clone https://github.com/AryaGupta01/Spotify-Chrome-Extension.git
+    git clone https://github.com/AryaGupta01/Music-Chrome-Extension.git
     ```
 
 2. Open Chrome and go to `chrome://extensions/`.
@@ -47,7 +47,7 @@ Spotify Chrome Extension is a convenient tool that allows you to search and play
 
 You can also use the extension directly from the web:
 
-1. Visit the [Spotify Chrome Extension webpage](https://aryagupta01.github.io/Spotify-Chrome-Extension/).
+1. Visit the [Spotify Chrome Extension webpage](https://aryagupta01.github.io/Music-Chrome-Extension/).
 
 2. Follow the on-screen instructions to search and play your favorite songs.
 
@@ -55,7 +55,7 @@ You can also use the extension directly from the web:
 
 We welcome contributions! To contribute to Spotify Chrome Extension, follow these steps:
 
-1. Fork the repository: [https://github.com/AryaGupta01/Spotify-Chrome-Extension](https://github.com/AryaGupta01/Spotify-Chrome-Extension)
+1. Fork the repository: [https://github.com/AryaGupta01/Music-Chrome-Extension](https://github.com/AryaGupta01/Music-Chrome-Extension)
 
 2. Create your feature branch:
 
@@ -77,7 +77,6 @@ We welcome contributions! To contribute to Spotify Chrome Extension, follow thes
 
 5. Create a new Pull Request.
 
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md) when contributing to this project.
 
 ## License
 
